@@ -5,7 +5,7 @@ The Jyputer notebooks and CSV datasets are located at the following URL:
 https://github.com/LamyaDaakir/CS7641_Assignment2
 
 Dataset #1 files:
-    Assignment_2.ipynb
+    Assignment-2.ipynb
     seismic.csv
 
 To run the code, download the files into a directory and execute the 'jupyter notebook' or 'jupyter lab' command.
